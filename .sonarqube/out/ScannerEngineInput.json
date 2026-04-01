@@ -1,0 +1,136 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.2"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1775001898000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "docker-dotnet-example"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\git\\docker-dotnet-example\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\git\\docker-dotnet-example"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\git\\docker-dotnet-example"
+    },
+    {
+      "key": "sonar.sources",
+      "value": "C:\\git\\docker-dotnet-example\\.github\\workflows\\main.yml,C:\\git\\docker-dotnet-example\\compose.yaml,C:\\git\\docker-dotnet-example\\docker-dotnet-kubernetes.yaml,C:\\git\\docker-dotnet-example\\Dockerfile"
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "5178F247-A964-BC1E-B351-1A14CDD2CCAE,9CF47860-2CEA-F379-09D8-9AEF27965D12"
+    },
+    {
+      "key": "5178F247-A964-BC1E-B351-1A14CDD2CCAE.sonar.projectKey",
+      "value": "docker-dotnet-example:5178F247-A964-BC1E-B351-1A14CDD2CCAE"
+    },
+    {
+      "key": "5178F247-A964-BC1E-B351-1A14CDD2CCAE.sonar.projectName",
+      "value": "myWebApp"
+    },
+    {
+      "key": "5178F247-A964-BC1E-B351-1A14CDD2CCAE.sonar.projectBaseDir",
+      "value": "C:\\git\\docker-dotnet-example\\src"
+    },
+    {
+      "key": "5178F247-A964-BC1E-B351-1A14CDD2CCAE.sonar.working.directory",
+      "value": "C:\\git\\docker-dotnet-example\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "5178F247-A964-BC1E-B351-1A14CDD2CCAE.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "5178F247-A964-BC1E-B351-1A14CDD2CCAE.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "5178F247-A964-BC1E-B351-1A14CDD2CCAE.sonar.sources",
+      "value": "C:\\git\\docker-dotnet-example\\src\\Data\\SchoolContext.cs,C:\\git\\docker-dotnet-example\\src\\Models\\Student.cs,C:\\git\\docker-dotnet-example\\src\\Pages\\Error.cshtml.cs,C:\\git\\docker-dotnet-example\\src\\Pages\\Index.cshtml.cs,C:\\git\\docker-dotnet-example\\src\\Pages\\Privacy.cshtml.cs,C:\\git\\docker-dotnet-example\\src\\Program.cs,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\myWebApp.GlobalUsings.g.cs,\"C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs\",C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\myWebApp.AssemblyInfo.cs,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\myWebApp.RazorAssemblyInfo.cs,C:\\git\\docker-dotnet-example\\src\\wwwroot\\css\\site.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\favicon.ico,C:\\git\\docker-dotnet-example\\src\\wwwroot\\js\\site.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\bootstrap\\LICENSE,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\jquery-validation\\LICENSE.md,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\jquery\\dist\\jquery.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\jquery\\dist\\jquery.min.js,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\jquery\\dist\\jquery.min.map,C:\\git\\docker-dotnet-example\\src\\wwwroot\\lib\\jquery\\LICENSE.txt,C:\\git\\docker-dotnet-example\\src\\appsettings.Development.json,C:\\git\\docker-dotnet-example\\src\\appsettings.json,C:\\git\\docker-dotnet-example\\src\\Pages\\Error.cshtml,C:\\git\\docker-dotnet-example\\src\\Pages\\Index.cshtml,C:\\git\\docker-dotnet-example\\src\\Pages\\Privacy.cshtml,C:\\git\\docker-dotnet-example\\src\\Pages\\Shared\\_Layout.cshtml,C:\\git\\docker-dotnet-example\\src\\Pages\\Shared\\_ValidationScriptsPartial.cshtml,C:\\git\\docker-dotnet-example\\src\\Pages\\_ViewImports.cshtml,C:\\git\\docker-dotnet-example\\src\\Pages\\_ViewStart.cshtml,C:\\git\\docker-dotnet-example\\src\\Pages\\Shared\\_Layout.cshtml.css,C:\\git\\docker-dotnet-example\\src\\db\\password.txt,C:\\git\\docker-dotnet-example\\src\\Properties\\launchSettings.json,C:\\git\\docker-dotnet-example\\src\\obj\\myWebApp.csproj.nuget.dgspec.json,C:\\git\\docker-dotnet-example\\src\\obj\\project.assets.json,C:\\git\\docker-dotnet-example\\src\\bin\\Debug\\net10.0\\appsettings.Development.json,C:\\git\\docker-dotnet-example\\src\\bin\\Debug\\net10.0\\appsettings.json,C:\\git\\docker-dotnet-example\\src\\bin\\Debug\\net10.0\\myWebApp.deps.json,C:\\git\\docker-dotnet-example\\src\\bin\\Debug\\net10.0\\myWebApp.runtimeconfig.json,C:\\git\\docker-dotnet-example\\src\\bin\\Debug\\net10.0\\myWebApp.staticwebassets.endpoints.json,C:\\git\\docker-dotnet-example\\src\\bin\\Debug\\net10.0\\myWebApp.staticwebassets.runtime.json,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\myWebApp.sourcelink.json,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\rbcswa.dswa.cache.json,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\rjimswa.dswa.cache.json,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\rjsmcshtml.dswa.cache.json,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\rjsmrazor.dswa.cache.json,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\rpswa.dswa.cache.json,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\staticwebassets.build.endpoints.json,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\staticwebassets.build.json,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\staticwebassets.development.json,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\scopedcss\\bundle\\myWebApp.styles.css,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\scopedcss\\projectbundle\\myWebApp.bundle.scp.css,C:\\git\\docker-dotnet-example\\src\\obj\\Debug\\net10.0\\scopedcss\\Pages\\Shared\\_Layout.cshtml.rz.scp.css"
+    },
+    {
+      "key": "5178F247-A964-BC1E-B351-1A14CDD2CCAE.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\git\\docker-dotnet-example\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "5178F247-A964-BC1E-B351-1A14CDD2CCAE.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\git\\docker-dotnet-example\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "5178F247-A964-BC1E-B351-1A14CDD2CCAE.sonar.cs.scanner.telemetry",
+      "value": "C:\\git\\docker-dotnet-example\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "9CF47860-2CEA-F379-09D8-9AEF27965D12.sonar.projectKey",
+      "value": "docker-dotnet-example:9CF47860-2CEA-F379-09D8-9AEF27965D12"
+    },
+    {
+      "key": "9CF47860-2CEA-F379-09D8-9AEF27965D12.sonar.projectName",
+      "value": "tests"
+    },
+    {
+      "key": "9CF47860-2CEA-F379-09D8-9AEF27965D12.sonar.projectBaseDir",
+      "value": "C:\\git\\docker-dotnet-example\\tests"
+    },
+    {
+      "key": "9CF47860-2CEA-F379-09D8-9AEF27965D12.sonar.working.directory",
+      "value": "C:\\git\\docker-dotnet-example\\.sonarqube\\out\\.sonar\\mod1"
+    },
+    {
+      "key": "9CF47860-2CEA-F379-09D8-9AEF27965D12.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "9CF47860-2CEA-F379-09D8-9AEF27965D12.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "9CF47860-2CEA-F379-09D8-9AEF27965D12.sonar.tests",
+      "value": "C:\\git\\docker-dotnet-example\\tests\\obj\\project.assets.json,C:\\git\\docker-dotnet-example\\tests\\obj\\tests.csproj.nuget.dgspec.json,C:\\git\\docker-dotnet-example\\tests\\bin\\Debug\\net10.0\\appsettings.Development.json,C:\\git\\docker-dotnet-example\\tests\\bin\\Debug\\net10.0\\appsettings.json,C:\\git\\docker-dotnet-example\\tests\\bin\\Debug\\net10.0\\myWebApp.deps.json,C:\\git\\docker-dotnet-example\\tests\\bin\\Debug\\net10.0\\myWebApp.runtimeconfig.json,C:\\git\\docker-dotnet-example\\tests\\bin\\Debug\\net10.0\\myWebApp.staticwebassets.endpoints.json,C:\\git\\docker-dotnet-example\\tests\\bin\\Debug\\net10.0\\myWebApp.staticwebassets.runtime.json,C:\\git\\docker-dotnet-example\\tests\\bin\\Debug\\net10.0\\tests.deps.json,C:\\git\\docker-dotnet-example\\tests\\bin\\Debug\\net10.0\\tests.runtimeconfig.json,C:\\git\\docker-dotnet-example\\tests\\obj\\Debug\\net10.0\\tests.sourcelink.json,C:\\git\\docker-dotnet-example\\tests\\UnitTest1.cs,C:\\git\\docker-dotnet-example\\tests\\Usings.cs"
+    },
+    {
+      "key": "9CF47860-2CEA-F379-09D8-9AEF27965D12.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\git\\docker-dotnet-example\\.sonarqube\\out\\1"
+    },
+    {
+      "key": "9CF47860-2CEA-F379-09D8-9AEF27965D12.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\git\\docker-dotnet-example\\.sonarqube\\out\\1\\Issues.json"
+    },
+    {
+      "key": "9CF47860-2CEA-F379-09D8-9AEF27965D12.sonar.cs.scanner.telemetry",
+      "value": "C:\\git\\docker-dotnet-example\\.sonarqube\\out\\1\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

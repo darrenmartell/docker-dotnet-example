@@ -1,0 +1,1 @@
+C:\git\docker-dotnet-example\.sonarqube\out\1

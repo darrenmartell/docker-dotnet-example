@@ -1,0 +1,1 @@
+=R0C:\git\docker-dotnet-example\src\myWebApp.csprojòCSharp14

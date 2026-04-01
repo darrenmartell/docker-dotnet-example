@@ -1,0 +1,25 @@
+Product projects
+---------------------------------------
+C:\git\docker-dotnet-example\src\myWebApp.csproj
+
+
+Test projects
+---------------------------------------
+C:\git\docker-dotnet-example\tests\tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+
